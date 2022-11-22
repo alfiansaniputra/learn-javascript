@@ -1,0 +1,5 @@
+============================
+week 1 : 
+-dasar dasar javascript
+-tipe data variable (bukan tipe data biasa) let, const, var
+-console.log 
